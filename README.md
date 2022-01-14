@@ -1,1 +1,1 @@
-# microserviceconfig
+insurance-config-server
